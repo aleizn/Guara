@@ -73,7 +73,7 @@ global.APIKeys = { // APIKey Here
 global.lenguajeGB = es
 
 /* ______________________________________________ */
-global.creadorname = '𝐓𝐡𝐞 𝐌𝐲𝐬𝐭𝐢𝐜 𝐀𝐥𝐞'
+global.creadorname = '𝐂. 𝐆𝐔𝐀𝐑𝐀𝐍𝐃𝐈𝐍𝐆𝐀'
 global.creatorname = creadorname
 global.library = 'BAILEYS-MD'
 global.vs = 'V10'
@@ -91,8 +91,8 @@ global.tiempo = d.toLocaleString('en-US', { hour: 'numeric', minute: 'numeric', 
 global.packname = `👑 ➢ CREADOR POR:\n📅 ➢ Día:\n🗓️ ➢ Fecha:`
 global.author = ` DORRAT-BOT\n• ${dia}\n• ${fecha}`
 //_______________
-global.wm = '𝐓𝐡𝐞 𝐌𝐲𝐬𝐭𝐢𝐜 𝐀𝐥𝐞'
-global.db3t = `𝐓𝐡𝐞 𝐌𝐲𝐬𝐭𝐢𝐜 𝐀𝐥𝐞`
+global.wm = '𝐂. 𝐆𝐔𝐀𝐑𝐀𝐍𝐃𝐈𝐍𝐆𝐀'
+global.db3t = `𝐂. 𝐆𝐔𝐀𝐑𝐀𝐍𝐃𝐈𝐍𝐆𝐀`
 global.wm3 = db3t
 global.igfg = '𝐓𝐡𝐞 𝐌𝐲𝐬𝐭𝐢𝐜 𝐀𝐥𝐞'
 global.wait = '*[❕] CARGANDO POR FAVOR ESPERA...*'
